@@ -1,0 +1,2 @@
+# MyNewPackage.jl
+Test Package
