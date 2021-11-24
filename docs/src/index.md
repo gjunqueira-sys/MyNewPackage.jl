@@ -16,9 +16,3 @@ Documentation for [MyNewPackage](https://github.com/gjunqueira-sys/MyNewPackage.
 Modules = [MyNewPackage]
 ```
 
-## Functions Documentation
-
-```@docs
-testPackage()
-```
-
