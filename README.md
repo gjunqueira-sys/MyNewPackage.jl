@@ -25,4 +25,16 @@
 * Github user and email
 * etc
 
+## 3. Deploy PkgTemplate
+```julia
+t("MyNewPackage")
+```
+
+## Create Github repo for new Package
+* Initialize Master Branch and sync up
+> git branch -M master
+> git push -u origin master 
+
+
+
 
