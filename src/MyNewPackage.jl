@@ -1,5 +1,7 @@
 module MyNewPackage
 
+export testPackage
+
 # Write your package code here.
 """
     println("Hello World")
