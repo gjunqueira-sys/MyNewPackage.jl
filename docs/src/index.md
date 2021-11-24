@@ -12,3 +12,10 @@ Documentation for [MyNewPackage](https://github.com/gjunqueira-sys/MyNewPackage.
 ```@autodocs
 Modules = [MyNewPackage]
 ```
+
+## Functions Documentation
+
+```@docs
+testPackage()
+```
+
