@@ -1,7 +1,7 @@
 ```@meta
 CurrentModule = MyNewPackage
 DocTestSetup = quote
-    using MyNewPackage.jl
+    using MyNewPackage
 end
 ```
 
